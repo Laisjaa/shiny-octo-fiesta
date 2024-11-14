@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - **GitHub:** https://github.com/Laisjaa
 
 # Summary
-I am Laisja Thomasia and I came from Curacao 5 years ago to study Life sciences/bioinformatics
+I am Laisja Thomasia and I came from Curacao 5 years ago and I am a student with strong analytical and computational skills, pursuing a degree in Life Sciences at the HU. Experienced in processing large biological datasets, developing scripts for data visualization, and using bioinformatics software to analyze genomic data. Passionate about research, with a particular interest in the intersection of data science and genomics. Looking to apply my skills in data analysis and biological research in an internship or research assistant position
 
 # Education
 ## Master of Science in [Field], [University Name]
