@@ -9,5 +9,49 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is my first RMarkdown file tracked by Git!!
+# Contact Information
+- **Email:** Laisja.thomasia@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/laisja-thomasia-41b55725b/
+- **GitHub:** https://github.com/Laisjaa
+
+# Summary
+I am Laisja Thomasia and I came from Curacao 5 years ago to study Life sciences/bioinformatics
+
+# Education
+## Master of Science in [Field], [University Name]
+*Month Year - Month Year*
+
+- Relevant coursework: [List any relevant courses]
+
+## Bachelor of Science in [Field], [University Name]
+*Month Year - Month Year*
+
+- Graduated with honors
+
+# Professional Experience
+## [Job Title], [Company Name]
+*Month Year - Present*
+
+- Key responsibility 1
+- Key responsibility 2
+- Accomplishments, metrics, or relevant projects
+
+## [Job Title], [Company Name]
+*Month Year - Month Year*
+
+- Key responsibility 1
+- Key responsibility 2
+- Accomplishments, metrics, or relevant projects
+
+# Skills
+- Programming: R, Python, SQL
+- Data visualization: ggplot2, Shiny, Tableau
+- Other: Git, Machine Learning, etc.
+
+# Projects
+- **Project Name 1**: Brief description and [link](https://projectlink.com).
+- **Project Name 2**: Brief description and [link](https://projectlink.com).
+
+# Publications (if applicable)
+- Author 1, Author 2. (Year). "Title of Paper." *Journal Name*. DOI/Link.
 
