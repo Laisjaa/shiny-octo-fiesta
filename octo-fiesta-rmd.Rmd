@@ -15,43 +15,78 @@ knitr::opts_chunk$set(echo = TRUE)
 - **GitHub:** https://github.com/Laisjaa
 
 # Summary
-I am Laisja Thomasia and I came from Curacao 5 years ago and I am a student with strong analytical and computational skills, pursuing a degree in Life Sciences at the HU. Experienced in processing large biological datasets, developing scripts for data visualization, and using bioinformatics software to analyze genomic data. Passionate about research, with a particular interest in the intersection of data science and genomics. Looking to apply my skills in data analysis and biological research in an internship or research assistant position
+I am Laisja Thomasia and I came from Curacao 5 years ago and I am a student with strong analytical and computational skills, pursuing a degree in Life Sciences at the HU. Experienced in processing large biological datasets, developing scripts for data visualization, and using bioinformatics software to analyze genomic data. Passionate about research, with a particular interest in the intersection of data science and genomics. Looking to apply my skills in data analysis and biological research in an internship or research assistant position.
+
+---
 
 # Education
-## Master of Science in [Field], [University Name]
-*Month Year - Month Year*
+## Bachelor of Science in Life Sciences/Bioinformatics  
+**HU University**  
+*Expected Graduation: 2027*
 
-- Relevant coursework: [List any relevant courses]
+- Relevant Coursework: Computational Biology, Genomics, Bioinformatics, Data Science, Molecular Biology.
+- Research Project: Analyzed genomic data for gene expression using R
 
-## Bachelor of Science in [Field], [University Name]
-*Month Year - Month Year*
-
-- Graduated with honors
-
-# Professional Experience
-## [Job Title], [Company Name]
-*Month Year - Present*
-
-- Key responsibility 1
-- Key responsibility 2
-- Accomplishments, metrics, or relevant projects
-
-## [Job Title], [Company Name]
-*Month Year - Month Year*
-
-- Key responsibility 1
-- Key responsibility 2
-- Accomplishments, metrics, or relevant projects
+---
 
 # Skills
-- Programming: R, Python, SQL
-- Data visualization: ggplot2, Shiny, Tableau
-- Other: Git, Machine Learning, etc.
+
+- **Programming Languages**: R  
+- **Bioinformatics Tools**: BLAST, Geneious, Galaxy  
+- **Data Analysis**: Statistical analysis, data visualization, data cleaning  
+- **Software**: RStudio, Jupyter, Git, Microsoft Excel  
+- **Laboratory Techniques**: PCR, Gel Electrophoresis, DNA Sequencing  
+
+---
 
 # Projects
-- **Project Name 1**: Brief description and [link](https://projectlink.com).
-- **Project Name 2**: Brief description and [link](https://projectlink.com).
+## Project Title: Bioinformatics Data Analysis  
+**University of [Your University]**  
+*Date: [Month, Year]*  
+- Used R to process and analyze large genomic datasets.
+- Applied bioinformatics tools such as BLAST to identify sequences and Geneious for sequence alignment.
+- Presented results in a research seminar to faculty and peers.
 
-# Publications (if applicable)
-- Author 1, Author 2. (Year). "Title of Paper." *Journal Name*. DOI/Link.
+## Project Title: Data Visualization of Genomic Data  
+**Personal Project**  
+*Date: [Month, Year]*  
+- Visualized large biological datasets using Python libraries (Pandas, Matplotlib).
+- Developed interactive graphs for improved presentation of results.
+
+---
+
+# Experience
+
+## Research Assistant  
+**[Research Lab or Department Name]**  
+*Date: [Month, Year] - Present*  
+- Assisted in the analysis of genomic data, performing tasks such as data cleaning and processing.
+- Supported the preparation of research papers and presentations for academic conferences.
+
+## Intern, Bioinformatics Department  
+**[Company/Organization Name]**  
+*Date: [Month, Year] - [Month, Year]*  
+- Developed scripts for analyzing biological datasets.
+- Collaborated with the team to improve data pipeline efficiency.
+
+---
+
+# Certifications
+- **Bioinformatics with R** – Coursera, [Year]  
+- **Introduction to Python for Data Science** – DataCamp, [Year]
+
+---
+
+# Languages
+- **English**: Fluent  
+- **Spanish**: Intermediate
+
+---
+
+# Interests
+- Computational Biology  
+- Data Science  
+- Artificial Intelligence in Bioinformatics  
+- Hiking and Photography
+
 
