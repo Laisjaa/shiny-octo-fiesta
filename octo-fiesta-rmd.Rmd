@@ -1,0 +1,13 @@
+---
+title: "My own RMark-down file"
+author: "Laisja Thomasia"
+date: "2024-11-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is my first RMarkdown file tracked by Git!!
+
