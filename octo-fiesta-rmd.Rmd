@@ -32,53 +32,19 @@ I am Laisja Thomasia and I came from Curacao 5 years ago and I am a student with
 # Skills
 
 - **Programming Languages**: R  
-- **Bioinformatics Tools**: BLAST, Geneious, Galaxy  
+- **Bioinformatics Tools**: BLAST 
 - **Data Analysis**: Statistical analysis, data visualization, data cleaning  
-- **Software**: RStudio, Jupyter, Git, Microsoft Excel  
+- **Software**: RStudio 
 - **Laboratory Techniques**: PCR, Gel Electrophoresis, DNA Sequencing  
 
 ---
 
-# Projects
-## Project Title: Bioinformatics Data Analysis  
-**University of [Your University]**  
-*Date: [Month, Year]*  
-- Used R to process and analyze large genomic datasets.
-- Applied bioinformatics tools such as BLAST to identify sequences and Geneious for sequence alignment.
-- Presented results in a research seminar to faculty and peers.
 
-## Project Title: Data Visualization of Genomic Data  
-**Personal Project**  
-*Date: [Month, Year]*  
-- Visualized large biological datasets using Python libraries (Pandas, Matplotlib).
-- Developed interactive graphs for improved presentation of results.
-
----
-
-# Experience
-
-## Research Assistant  
-**[Research Lab or Department Name]**  
-*Date: [Month, Year] - Present*  
-- Assisted in the analysis of genomic data, performing tasks such as data cleaning and processing.
-- Supported the preparation of research papers and presentations for academic conferences.
-
-## Intern, Bioinformatics Department  
-**[Company/Organization Name]**  
-*Date: [Month, Year] - [Month, Year]*  
-- Developed scripts for analyzing biological datasets.
-- Collaborated with the team to improve data pipeline efficiency.
-
----
-
-# Certifications
-- **Bioinformatics with R** – Coursera, [Year]  
-- **Introduction to Python for Data Science** – DataCamp, [Year]
-
----
 
 # Languages
-- **English**: Fluent  
+- **English**: Fluent
+- **Papiamentu**: Fluent
+- **Dutch**: Fluent
 - **Spanish**: Intermediate
 
 ---
@@ -87,6 +53,6 @@ I am Laisja Thomasia and I came from Curacao 5 years ago and I am a student with
 - Computational Biology  
 - Data Science  
 - Artificial Intelligence in Bioinformatics  
-- Hiking and Photography
+- Hairstylist
 
 
