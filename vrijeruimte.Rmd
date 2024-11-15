@@ -13,5 +13,5 @@ In the next two years, I see myself completing my Bachelor's in Life Sciences, w
 
 I’m aiming to get really good at coding, especially in R, even though it’s been tough since it’s a new language for me. To improve, I’m making sure to spend 30-60 minutes a day practicing coding. I’m also showing up for all my classes to make sure I’m building a solid foundation. It’s a challenge, but I’m committed to sticking with it and getting better every day so I can be ready for a career in bioinformatics.
 
-Furthermore, because of the experience with the RNA-sequencing in the DAUR2 project, i would like to deepen my understanding within cancer cells by putting my research on protein-protein interactions, more specifically in cancer cells. The protein P53 is the protein most associated with cancer because it acts as a tumor Supressor function, DNA pair regulation and prevents mutation
+Furthermore, because of the experience with the RNA-sequencing in the DAUR2 project, i would like to deepen my understanding by putting my research on protein-protein interactions, more specifically in cancer cells. The protein P53 is the protein most associated with cancer because it acts as a tumor Supressor function, DNA pair regulation and prevents mutation Mutation in this particular protein, causes over 50% of cancers.
 
