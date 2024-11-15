@@ -1,5 +1,5 @@
 ---
-title: "Vrije Ruimte Opdracht"
+title: "p53 mutations and their impact on protein-protein interactions in cancer"
 author: "Laisja Thomasia"
 date: "2024-11-14"
 output: html_document
@@ -11,7 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 In the next two years, I see myself completing my Bachelor's in Life Sciences, with a solid set of skills in Bioinformatics. I'm really excited to dive deeper into the field and become comfortable with using tools like R to analyze biological data. To get there, I’m committed to improving my programming and problem-solving skills every day, whether it's by working on coding exercises, learning new bioinformatics techniques, or experimenting with real-world datasets. I’m eager to continue learning and apply what I know to actual bioinformatics problems, whether in academic projects or through personal practice. 
 
-I’m aiming to get really good at coding, especially in R, even though it’s been tough since it’s a new language for me. To improve, I’m making sure to spend 30-60 minutes a day practicing coding. I’m also showing up for all my classes to make sure I’m building a solid foundation. It’s a challenge, but I’m committed to sticking with it and getting better every day so I can be ready for a career in bioinformatics.
+Furthermore, because of the experience with the RNA-sequencing in the DAUR2 project, i would like to deepen my understanding by putting my research on protein-protein interactions, more specifically in cancer cells. The protein P53 is the protein most associated with cancer because it acts as a tumor Supressor function, DNA pair regulation and prevents mutations. Mutation in this particular protein, causes over 50% of cancers. The goal is to understand how p53 mutations contribute to cancer progression. 
 
-Furthermore, because of the experience with the RNA-sequencing in the DAUR2 project, i would like to deepen my understanding by putting my research on protein-protein interactions, more specifically in cancer cells. The protein P53 is the protein most associated with cancer because it acts as a tumor Supressor function, DNA pair regulation and prevents mutation Mutation in this particular protein, causes over 50% of cancers.
+This goal is reached by retrieving p53 mutation data from cancer databases like NCI and find where the mutations frequently occur. Then use online tools on how the mutations change the structure and the way the p53 protein functions(Protein Data Bank). Then p53 gets mapped out to see which other protein interacts with p53 and see how these interactions are affected by mutations. Lastly, the dataset, RNA-seq from cancer samples, gets used to check if the mutationof p53 alters the expression of specific genes (Rstudio)  
+
 
